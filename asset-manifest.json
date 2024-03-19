@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/minhkent05/checkin.git/static/css/main.6fb47177.css",
-    "main.js": "/minhkent05/checkin.git/static/js/main.ee7c0664.js",
-    "static/js/453.13f429b0.chunk.js": "/minhkent05/checkin.git/static/js/453.13f429b0.chunk.js",
-    "static/media/anh-galaxy.jpg": "/minhkent05/checkin.git/static/media/anh-galaxy.71872e79889b2603647b.jpg",
-    "static/media/qr.jpg": "/minhkent05/checkin.git/static/media/qr.f2662ad01e924373d663.jpg",
-    "index.html": "/minhkent05/checkin.git/index.html",
-    "main.6fb47177.css.map": "/minhkent05/checkin.git/static/css/main.6fb47177.css.map",
-    "main.ee7c0664.js.map": "/minhkent05/checkin.git/static/js/main.ee7c0664.js.map",
-    "453.13f429b0.chunk.js.map": "/minhkent05/checkin.git/static/js/453.13f429b0.chunk.js.map"
+    "main.css": "/checkin/static/css/main.204969c2.css",
+    "main.js": "/checkin/static/js/main.39ac762c.js",
+    "static/js/453.13f429b0.chunk.js": "/checkin/static/js/453.13f429b0.chunk.js",
+    "static/media/anh-galaxy.jpg": "/checkin/static/media/anh-galaxy.71872e79889b2603647b.jpg",
+    "static/media/qr.jpg": "/checkin/static/media/qr.f2662ad01e924373d663.jpg",
+    "index.html": "/checkin/index.html",
+    "main.204969c2.css.map": "/checkin/static/css/main.204969c2.css.map",
+    "main.39ac762c.js.map": "/checkin/static/js/main.39ac762c.js.map",
+    "453.13f429b0.chunk.js.map": "/checkin/static/js/453.13f429b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fb47177.css",
-    "static/js/main.ee7c0664.js"
+    "static/css/main.204969c2.css",
+    "static/js/main.39ac762c.js"
   ]
 }
